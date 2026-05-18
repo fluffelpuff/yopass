@@ -13,38 +13,8 @@ i18n
       en: {
         translation: en,
       },
-      sv: {
-        translation: sv,
-      },
-      no: {
-        translation: no,
-      },
       de: {
         translation: de,
-      },
-      cs: {
-        translation: cs,
-      },
-      pl: {
-        translation: pl,
-      },
-      by: {
-        translation: by,
-      },
-      ru: {
-        translation: ru,
-      },
-      fr: {
-        translation: fr,
-      },
-      nl: {
-        translation: nl,
-      },
-      es: {
-        translation: es,
-      },
-      ja: {
-        translation: ja,
       },
     },
     fallbackLng: 'en',
